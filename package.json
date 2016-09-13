@@ -1,0 +1,25 @@
+{
+  "name": "electron-handlebars",
+  "version": "0.0.0",
+  "description": "Use handlebars templates in Electron.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knpwrs/electron-handlebars.git"
+  },
+  "keywords": [
+    "electron",
+    "handlebars",
+    "templates",
+    "html"
+  ],
+  "author": "Kenneth Powers <ken@kenpowers.net> (http://knpw.rs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knpwrs/electron-handlebars/issues"
+  },
+  "homepage": "https://github.com/knpwrs/electron-handlebars#readme"
+}
