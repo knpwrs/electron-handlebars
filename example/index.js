@@ -1,6 +1,9 @@
 const { app, BrowserWindow } = require('electron');
+
 require('electron-handlebars')({
-  foo: 'Foo!',
+  // Template bindings go here!
+  title: 'Hello, World!',
+  body: 'The quick brown fox jumps over the lazy dog.',
 });
 
 let mainWindow = null;
