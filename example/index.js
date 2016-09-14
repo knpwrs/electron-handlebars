@@ -1,5 +1,5 @@
 const { app, BrowserWindow } = require('electron');
-require('../')({
+require('electron-handlebars')({
   foo: 'Foo!',
 });
 

@@ -4,6 +4,7 @@
     "start": "electron ."
   },
   "dependencies": {
-    "electron": "^1.3.5"
+    "electron": "^1.3.5",
+    "electron-handlebars": "../"
   }
 }
