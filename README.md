@@ -50,8 +50,7 @@ And in `index.hbs` (or whatever other file you are loading with `loadURL`):
 ## Example App
 
 There is a complete (albeit small) working example app in the `example`
-directory. You can run it from either the root directory or the `example`
-directory with the following:
+directory. You can run it from *root* directory with the following:
 
 ```sh
 npm i

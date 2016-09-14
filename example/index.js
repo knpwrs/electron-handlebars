@@ -1,6 +1,6 @@
 const { app, BrowserWindow } = require('electron');
 
-require('electron-handlebars')({
+require('../')({
   // Template bindings go here!
   title: 'Hello, World!',
   body: 'The quick brown fox jumps over the lazy dog.',
