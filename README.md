@@ -1,5 +1,7 @@
 # electron-handlebars
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/knpwrs/electron-handlebars.svg)](https://greenkeeper.io/)
+
 Use [Handlebars] instead of plain HTML for your [Electron] app!
 
 ## Usage
