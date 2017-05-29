@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/knpwrs/electron-handlebars#readme",
   "dependencies": {
-    "any-pify": "^1.0.0",
+    "any-pify": "^2.0.0",
     "handlebars": "^4.0.5",
     "lodash": "^4.15.0",
     "mime": "^1.3.4"
